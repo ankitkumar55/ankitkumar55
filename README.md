@@ -1,4 +1,4 @@
-![logo](https://github.com/ankitkumar55/ankitkumar55/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.mp4)
+![logo](https://github.com/ankitkumar55/ankitkumar55/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate Web developer and Technology Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/ankitkumar55/ankitkumar55/blob/main/giphy.gif">
