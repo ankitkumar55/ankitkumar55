@@ -1,8 +1,9 @@
 
-<img align="center" alt="coding" width="850" height="340" src="https://github.com/ankitkumar55/ankitkumar55/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.gif">
+<img align="center" alt="coding" width="850" height="350" src="https://github.com/ankitkumar55/ankitkumar55/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.gif">
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate Web developer and Technology Enthusiast</h3>
-<img align="right" alt="coding" width="350" height="220" src="https://github.com/ankitkumar55/ankitkumar55/blob/main/giphy.gif">
+<br>
+<img align="right" alt="coding" width="350" height="230" src="https://github.com/ankitkumar55/ankitkumar55/blob/main/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumar55&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumar55" /> </p>
 
