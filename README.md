@@ -1,5 +1,5 @@
 
-<img align="center" alt="coding" width="850" height="350" src="https://github.com/ankitkumar55/ankitkumar55/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.gif">
+<img align="center" alt="coding" width="800" height="340" src="https://github.com/ankitkumar55/ankitkumar55/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.gif">
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate Web developer and Technology Enthusiast</h3>
 <br>
