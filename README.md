@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ak36924648@gmail.com**
 
-- ⚡ Fun fact **Trying to be funny😃**
+- ⚡ Fun fact **I got a lot to learn on my own rather than being taught by someone😃**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
