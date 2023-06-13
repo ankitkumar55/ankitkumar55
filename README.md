@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web Development project**
 
-- 💬 Ask me about **C++, Node(Express)**
+- 💬 Ask me about **C++, Node.Js**
 
 - 📫 How to reach me **ak36924648@gmail.com**
 
