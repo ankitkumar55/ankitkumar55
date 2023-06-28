@@ -28,6 +28,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar55&layout=compact&theme=tokyonight&locale=en )
 
-![](https://github-readme-stats.vercel.app/api?username=ankitkumar55&show_icons=true&theme=tokyonight&locale=en)
+<!--- ![](https://github-readme-stats.vercel.app/api?username=ankitkumar55&show_icons=true&theme=tokyonight&locale=en)  -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar55&theme=dark&theme=tokyonight)
